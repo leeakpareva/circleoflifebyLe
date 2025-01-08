@@ -1,6 +1,6 @@
 # circleoflifebyLe
 
-](https://stackblitz.com/edit/sb1-gnvfm55z?file=index.html)
+(https://frabjous-naiad-7ace43.netlify.app)
 
 
 **Executive Summary**:
